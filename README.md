@@ -9,3 +9,8 @@ Modules used
 - pandas
 - Scikit Learn
 - Matplotlib
+
+- Install packages for session
+```sh
+pip install -r requirements.txt
+```
